@@ -46,7 +46,7 @@
   </ol>
 
   <h2>License</h2>
-  <p>This project is licensed under the MIT License - see the <code>LICENSE.md</code> file for details.</p>
+  <p>This project is licensed under the MIT License</p>
 
   <h2>Acknowledgments</h2>
   <p>Thank you to the developers of ReactJS, NodeJS, Express, MongoDB, and Heroku for providing the tools and resources needed to build this application.</p>
