@@ -1,4 +1,4 @@
-YourPlace - Full Stack Web Application
+#YourPlace - Full Stack Web Application
 YourPlace is a web application that allows users to share images and locations with each other. It was built using ReactJS for the frontend, NodeJS and Express for the backend, and MongoDB for the database. The application is deployed on Heroku with a MongoDB cluster.
 
 Features
